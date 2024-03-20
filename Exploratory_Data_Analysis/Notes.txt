@@ -1,0 +1,20 @@
+# Different graphs and use cases
+# Scatterplot >> to understand relationship between two variable
+# Line chart >> whernever on x axis, we have time component
+# bar chart >> for categorical data
+# count plot >>  for categorical data
+# pie chart >> for the distribution of different unique classes
+# box plot and violin plot >> To determine outlier
+# histogram/distribution >> for continuous data
+# heat map >>  to understand the correlation
+# Pairplot >> all the numerical relationship in one plot
+# join plot >> relationship and distribution of data
+# swarmplot/relplot >> scatterplot
+# lmlpot >> reg line
+
+
+Data life cycle--
+1 - data ingestion
+2 - EDA(data analysis)
+3 - Data Prep/data preprocessing/feature engineering
+4 - modelling (ML)
